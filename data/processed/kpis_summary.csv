@@ -1,0 +1,2 @@
+invoices_total,amount_total,open_count,open_amount,overdue_count,overdue_amount,pct_overdue_amount,top10_vendor_share_pct,top_vendor_name,top_vendor_amount,days_to_pay_avg,days_to_pay_median,delay_vs_due_avg,delay_vs_due_pct_late,cash_out_next_7,cash_out_next_30,terms_days_avg,terms_days_median
+800,2087522.29,543,1418925.55,543,1418925.55,100.0,100.0,BluePrints,484927.82,30.0,30.0,0.0,0.0,0.0,0.0,30.0,30.0

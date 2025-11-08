@@ -1,0 +1,22 @@
+[
+  {
+    "invoices_total":800,
+    "amount_total":2087522.29,
+    "open_count":543,
+    "open_amount":1418925.55,
+    "overdue_count":543,
+    "overdue_amount":1418925.55,
+    "pct_overdue_amount":100.0,
+    "top10_vendor_share_pct":100.0,
+    "top_vendor_name":"BluePrints",
+    "top_vendor_amount":484927.82,
+    "days_to_pay_avg":30.0,
+    "days_to_pay_median":30.0,
+    "delay_vs_due_avg":0.0,
+    "delay_vs_due_pct_late":0.0,
+    "cash_out_next_7":0.0,
+    "cash_out_next_30":0.0,
+    "terms_days_avg":30.0,
+    "terms_days_median":30.0
+  }
+]
